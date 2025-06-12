@@ -5,8 +5,8 @@ import smtplib
 from email.mime.text import MIMEText
 from ollama import chat
 
-EMAIL = "akhil627283@gmail.com"
-APP_PASSWORD = "hrbjdnrkboscfocu"
+EMAIL = "emai.id"
+APP_PASSWORD = "App Password "
 
 def get_email_body(msg):
     if msg.is_multipart():
